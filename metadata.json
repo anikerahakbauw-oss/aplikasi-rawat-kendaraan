@@ -1,0 +1,8 @@
+{
+  "name": "Remix RAWAT KENDARAAN",
+  "description": "Buku servis kendaraan digital untuk mencatat kendaraan, suku cadang, jadwal servis, riwayat, biaya, dan nota.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
